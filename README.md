@@ -11,6 +11,7 @@ Search parameters,
 Dynamic parameters,
 State parameters
 
+etc.
+
 -There are lot of things to cover as well I'll upgrade this soon.
 https://ephemeral-panda-ac71fe.netlify.app/
-etc.
